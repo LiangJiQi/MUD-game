@@ -1,0 +1,152 @@
+﻿  Store.cpp
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(35): error C2864: “Goods::addAttack”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(36): error C2864: “Goods::addDefend”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(37): error C2864: “Goods::addHP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(38): error C2864: “Goods::addMaxHP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(39): error C2864: “Goods::addMP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(40): error C2864: “Goods::addMaxMP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Bag.h(25): error C2059: 语法错误:“{”
+e:\vs2015\新建项目\mud\mud\mud\Bag.h(25): error C2334: “{”的前面有意外标记；跳过明显的函数体
+e:\vs2015\新建项目\mud\mud\mud\Role.h(75): error C2059: 语法错误:“{”
+e:\vs2015\新建项目\mud\mud\mud\Role.h(75): error C2334: “{”的前面有意外标记；跳过明显的函数体
+e:\vs2015\新建项目\mud\mud\mud\Role.h(85): error C2864: “Role::story”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Store.h(25): error C2059: 语法错误:“{”
+e:\vs2015\新建项目\mud\mud\mud\Store.h(25): error C2334: “{”的前面有意外标记；跳过明显的函数体
+..\Store.cpp(28): error C2065: “goods”: 未声明的标识符
+..\Store.cpp(28): error C2228: “.getName”的左边必须有类/结构/联合
+..\Store.cpp(29): error C2065: “goods”: 未声明的标识符
+..\Store.cpp(29): error C2228: “.getDesc”的左边必须有类/结构/联合
+..\Store.cpp(30): error C2065: “goods”: 未声明的标识符
+..\Store.cpp(30): error C2228: “.getPriceBuy”的左边必须有类/结构/联合
+..\Store.cpp(43): error C2065: “goods”: 未声明的标识符
+..\Store.cpp(43): error C2228: “.getPriceBuy”的左边必须有类/结构/联合
+..\Store.cpp(49): error C2065: “goods”: 未声明的标识符
+..\Store.cpp(49): error C2228: “.getName”的左边必须有类/结构/联合
+..\Store.cpp(64): error C2065: “goods”: 未声明的标识符
+..\Store.cpp(64): error C2228: “.getPriceSell”的左边必须有类/结构/联合
+  Skill.cpp
+  Save.cpp
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(35): error C2864: “Goods::addAttack”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(36): error C2864: “Goods::addDefend”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(37): error C2864: “Goods::addHP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(38): error C2864: “Goods::addMaxHP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(39): error C2864: “Goods::addMP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(40): error C2864: “Goods::addMaxMP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Bag.h(25): error C2059: 语法错误:“{”
+e:\vs2015\新建项目\mud\mud\mud\Bag.h(25): error C2334: “{”的前面有意外标记；跳过明显的函数体
+e:\vs2015\新建项目\mud\mud\mud\Role.h(75): error C2059: 语法错误:“{”
+e:\vs2015\新建项目\mud\mud\mud\Role.h(75): error C2334: “{”的前面有意外标记；跳过明显的函数体
+e:\vs2015\新建项目\mud\mud\mud\Role.h(85): error C2864: “Role::story”: 只有静态常量整型数据成员才可以在类中初始化
+  Role.cpp
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(35): error C2864: “Goods::addAttack”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(36): error C2864: “Goods::addDefend”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(37): error C2864: “Goods::addHP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(38): error C2864: “Goods::addMaxHP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(39): error C2864: “Goods::addMP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(40): error C2864: “Goods::addMaxMP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Bag.h(25): error C2059: 语法错误:“{”
+e:\vs2015\新建项目\mud\mud\mud\Bag.h(25): error C2334: “{”的前面有意外标记；跳过明显的函数体
+e:\vs2015\新建项目\mud\mud\mud\Role.h(75): error C2059: 语法错误:“{”
+e:\vs2015\新建项目\mud\mud\mud\Role.h(75): error C2334: “{”的前面有意外标记；跳过明显的函数体
+e:\vs2015\新建项目\mud\mud\mud\Role.h(85): error C2864: “Role::story”: 只有静态常量整型数据成员才可以在类中初始化
+..\Role.cpp(210): error C2065: “levelExp_Max”: 未声明的标识符
+..\Role.cpp(212): error C2065: “levelExp_Max”: 未声明的标识符
+..\Role.cpp(213): error C2065: “levelExp_Max”: 未声明的标识符
+..\Role.cpp(214): error C2065: “levelExp_Max”: 未声明的标识符
+..\Role.cpp(215): error C2065: “levelExp_Max”: 未声明的标识符
+..\Role.cpp(221): error C2065: “levelExp_Max”: 未声明的标识符
+  Npc.cpp
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(35): error C2864: “Goods::addAttack”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(36): error C2864: “Goods::addDefend”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(37): error C2864: “Goods::addHP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(38): error C2864: “Goods::addMaxHP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(39): error C2864: “Goods::addMP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(40): error C2864: “Goods::addMaxMP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Bag.h(25): error C2059: 语法错误:“{”
+e:\vs2015\新建项目\mud\mud\mud\Bag.h(25): error C2334: “{”的前面有意外标记；跳过明显的函数体
+e:\vs2015\新建项目\mud\mud\mud\Role.h(75): error C2059: 语法错误:“{”
+e:\vs2015\新建项目\mud\mud\mud\Role.h(75): error C2334: “{”的前面有意外标记；跳过明显的函数体
+e:\vs2015\新建项目\mud\mud\mud\Role.h(85): error C2864: “Role::story”: 只有静态常量整型数据成员才可以在类中初始化
+  Map.cpp
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(35): error C2864: “Goods::addAttack”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(36): error C2864: “Goods::addDefend”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(37): error C2864: “Goods::addHP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(38): error C2864: “Goods::addMaxHP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(39): error C2864: “Goods::addMP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(40): error C2864: “Goods::addMaxMP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Bag.h(25): error C2059: 语法错误:“{”
+e:\vs2015\新建项目\mud\mud\mud\Bag.h(25): error C2334: “{”的前面有意外标记；跳过明显的函数体
+e:\vs2015\新建项目\mud\mud\mud\Role.h(75): error C2059: 语法错误:“{”
+e:\vs2015\新建项目\mud\mud\mud\Role.h(75): error C2334: “{”的前面有意外标记；跳过明显的函数体
+e:\vs2015\新建项目\mud\mud\mud\Role.h(85): error C2864: “Role::story”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Map.h(29): error C2059: 语法错误:“{”
+e:\vs2015\新建项目\mud\mud\mud\Map.h(29): error C2334: “{”的前面有意外标记；跳过明显的函数体
+..\Map.cpp(142): error C2065: “mapName”: 未声明的标识符
+..\Map.cpp(240): error C2065: “mapName”: 未声明的标识符
+  Main.cpp
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(35): error C2864: “Goods::addAttack”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(36): error C2864: “Goods::addDefend”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(37): error C2864: “Goods::addHP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(38): error C2864: “Goods::addMaxHP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(39): error C2864: “Goods::addMP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(40): error C2864: “Goods::addMaxMP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Bag.h(25): error C2059: 语法错误:“{”
+e:\vs2015\新建项目\mud\mud\mud\Bag.h(25): error C2334: “{”的前面有意外标记；跳过明显的函数体
+e:\vs2015\新建项目\mud\mud\mud\Role.h(75): error C2059: 语法错误:“{”
+e:\vs2015\新建项目\mud\mud\mud\Role.h(75): error C2334: “{”的前面有意外标记；跳过明显的函数体
+e:\vs2015\新建项目\mud\mud\mud\Role.h(85): error C2864: “Role::story”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Map.h(29): error C2059: 语法错误:“{”
+e:\vs2015\新建项目\mud\mud\mud\Map.h(29): error C2334: “{”的前面有意外标记；跳过明显的函数体
+e:\vs2015\新建项目\mud\mud\mud\Store.h(25): error C2059: 语法错误:“{”
+e:\vs2015\新建项目\mud\mud\mud\Store.h(25): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  Goods.cpp
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(35): error C2864: “Goods::addAttack”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(36): error C2864: “Goods::addDefend”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(37): error C2864: “Goods::addHP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(38): error C2864: “Goods::addMaxHP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(39): error C2864: “Goods::addMP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(40): error C2864: “Goods::addMaxMP”: 只有静态常量整型数据成员才可以在类中初始化
+  Fight.cpp
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(35): error C2864: “Goods::addAttack”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(36): error C2864: “Goods::addDefend”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(37): error C2864: “Goods::addHP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(38): error C2864: “Goods::addMaxHP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(39): error C2864: “Goods::addMP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(40): error C2864: “Goods::addMaxMP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Bag.h(25): error C2059: 语法错误:“{”
+e:\vs2015\新建项目\mud\mud\mud\Bag.h(25): error C2334: “{”的前面有意外标记；跳过明显的函数体
+e:\vs2015\新建项目\mud\mud\mud\Role.h(75): error C2059: 语法错误:“{”
+e:\vs2015\新建项目\mud\mud\mud\Role.h(75): error C2334: “{”的前面有意外标记；跳过明显的函数体
+e:\vs2015\新建项目\mud\mud\mud\Role.h(85): error C2864: “Role::story”: 只有静态常量整型数据成员才可以在类中初始化
+..\Fight.cpp(29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+..\Fight.cpp(42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+..\Fight.cpp(78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+..\Fight.cpp(84): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Enemy.cpp
+  Bag.cpp
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(35): error C2864: “Goods::addAttack”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(36): error C2864: “Goods::addDefend”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(37): error C2864: “Goods::addHP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(38): error C2864: “Goods::addMaxHP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(39): error C2864: “Goods::addMP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Goods.h(40): error C2864: “Goods::addMaxMP”: 只有静态常量整型数据成员才可以在类中初始化
+e:\vs2015\新建项目\mud\mud\mud\Bag.h(25): error C2059: 语法错误:“{”
+e:\vs2015\新建项目\mud\mud\mud\Bag.h(25): error C2334: “{”的前面有意外标记；跳过明显的函数体
+..\Bag.cpp(20): error C2065: “goods”: 未声明的标识符
+..\Bag.cpp(20): error C2228: “.getGoodsId”的左边必须有类/结构/联合
+..\Bag.cpp(20): error C2228: “.getName”的左边必须有类/结构/联合
+..\Bag.cpp(28): error C2065: “goods”: 未声明的标识符
+..\Bag.cpp(28): error C2228: “.getName”的左边必须有类/结构/联合
+..\Bag.cpp(33): error C2065: “goods”: 未声明的标识符
+..\Bag.cpp(33): error C2228: “.getName”的左边必须有类/结构/联合
+..\Bag.cpp(67): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+e:\vs2015\新建项目\mud\mud\mud\skill.cpp(38): warning C4715: “Skill::getLevel”: 不是所有的控件路径都返回值
+e:\vs2015\新建项目\mud\mud\mud\skill.cpp(79): warning C4715: “Skill::getName”: 不是所有的控件路径都返回值
+e:\vs2015\新建项目\mud\mud\mud\skill.cpp(58): warning C4715: “Skill::getLevel_Max”: 不是所有的控件路径都返回值
+e:\vs2015\新建项目\mud\mud\mud\skill.cpp(99): warning C4715: “Skill::getDisc”: 不是所有的控件路径都返回值
+e:\vs2015\新建项目\mud\mud\mud\skill.cpp(119): warning C4715: “Skill::getType”: 不是所有的控件路径都返回值
+e:\vs2015\新建项目\mud\mud\mud\skill.cpp(139): warning C4715: “Skill::getNeedMP”: 不是所有的控件路径都返回值
+e:\vs2015\新建项目\mud\mud\mud\skill.cpp(179): warning C4715: “Skill::getRecoverHp”: 不是所有的控件路径都返回值
+e:\vs2015\新建项目\mud\mud\mud\skill.cpp(159): warning C4715: “Skill::getAddAttack”: 不是所有的控件路径都返回值
+e:\vs2015\新建项目\mud\mud\mud\skill.cpp(198): warning C4715: “Skill::getDebuff”: 不是所有的控件路径都返回值

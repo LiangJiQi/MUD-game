@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bag">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABABgAAQAAAEgAAAICAEAAQAAAAAAQIAABEIA=</HashCode>
+      <FileName>E:\vs2015\新建项目\mud\mud\mud\Bag.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiBgAgICAxAAAAQUCEAAAAACgTAFAQCCIABEgEAAEpg=</HashCode>
+      <FileName>E:\vs2015\新建项目\mud\mud\mud\Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy_Small">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAEAAAAAAAAAAAAAACAAAAAAAAAAAg=</HashCode>
+      <FileName>E:\vs2015\新建项目\mud\mud\mud\Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy_Boss">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\vs2015\新建项目\mud\mud\mud\Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fight">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggAAAAAAAAIAAABAAACAgIAAAAEICABEgCgIgAAAAI=</HashCode>
+      <FileName>E:\vs2015\新建项目\mud\mud\mud\Fight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Goods">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAiEQAAgAA0AIAAAAIQACQgUAFAARAAAIEAAAAFKA=</HashCode>
+      <FileName>E:\vs2015\新建项目\mud\mud\mud\Goods.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map">
+    <Position X="7.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAIAAAAJAAA4AAAAAIIoAAAAEEAAAQAIAcCRIABAA=</HashCode>
+      <FileName>E:\vs2015\新建项目\mud\mud\mud\Map.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Npc">
+    <Position X="9.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAAAgAAAAAAAAAAAAACAAAFAQAAAAAsIAIAEAA=</HashCode>
+      <FileName>E:\vs2015\新建项目\mud\mud\mud\Npc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Role">
+    <Position X="11.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AChkClICARgBABVUvE3AgQCYGwWFBUCCIABkvMDGklg=</HashCode>
+      <FileName>E:\vs2015\新建项目\mud\mud\mud\Role.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Save">
+    <Position X="13" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAIAAAAAAAAAAAEAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\vs2015\新建项目\mud\mud\mud\Save.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Skill">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAQAAEMEAQAHEBEABCEgEAxAAVSAgARAAAIU6ANhAIA=</HashCode>
+      <FileName>E:\vs2015\新建项目\mud\mud\mud\Skill.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Role_1Skill">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\vs2015\新建项目\mud\mud\mud\Skill.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Role_2Skill">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\vs2015\新建项目\mud\mud\mud\Skill.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Role_3Skill">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\vs2015\新建项目\mud\mud\mud\Skill.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store">
+    <Position X="7.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAIAAQABAAIAIQAAAAA=</HashCode>
+      <FileName>E:\vs2015\新建项目\mud\mud\mud\Store.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task">
+    <Position X="9.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAQAAAAQAQAAAAJAEAABIAEAEKAAAAIA=</HashCode>
+      <FileName>E:\vs2015\新建项目\mud\mud\mud\Task.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
