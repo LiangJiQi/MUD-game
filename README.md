@@ -27,4 +27,3 @@ A simple MUD game, It has a Chinese name - 侠客行(chivalrous line)
 
 
 <br>
-装载请注明作者、出处。
